@@ -1,0 +1,3 @@
+select disEmp from dual 
+
+
