@@ -3,7 +3,7 @@
 # Lab
 
 # Practical Exam
-consist of Written exam (scanner (NFA) , parser (Push Down Machine )) 
+First   Written exam (scanner (NFA) , parser (PushDown Machine )) 
 then deliver a simple compiler (scanner , parser ) using pure programing or 
 tools such as (lex/flex , yacc/bison  , JavaCC).
 
