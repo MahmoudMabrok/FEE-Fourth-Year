@@ -8,7 +8,8 @@ then deliver a simple compiler (scanner , parser ) using pure programing or
 tools such as (lex/flex , yacc/bison  , JavaCC).
 ***
 ### Recourses 
-1.  Youtube PlayList
+1. Karam MediaFire (contain Lectures , Exams ) [Link](https://www.mediafire.com/folder/6m6459sgwfz81/?fbclid=IwAR32ID3XxiO_lHdupcAQIjjZHUrR3aF5N8-UbDKoQr9tVEyJZBS-5yPLcGI) 
+2.  Youtube PlayList
 -[CS4 Series ](https://www.youtube.com/playlist?list=PL3BYO3what8o7IA2hCAgkmERvqYi7C2Gt&app=desktop&fbclid=IwAR2hbZgEU5CfY92C29VaveyTcszntvZG3kZCknjA9Svq_RgkxB7Zlnp4SQg) .
 
 ***
